@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c544bdfe.css",
+    "main.js": "/static/js/main.cf42152c.js",
+    "static/js/453.c597153d.chunk.js": "/static/js/453.c597153d.chunk.js",
+    "static/media/Vybhogam.mp3": "/static/media/Vybhogam.360e1d5ddfaaed5a63f9.mp3",
+    "index.html": "/index.html",
+    "main.c544bdfe.css.map": "/static/css/main.c544bdfe.css.map",
+    "main.cf42152c.js.map": "/static/js/main.cf42152c.js.map",
+    "453.c597153d.chunk.js.map": "/static/js/453.c597153d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c544bdfe.css",
+    "static/js/main.cf42152c.js"
+  ]
+}
